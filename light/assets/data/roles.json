@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name_e": "Admin",
+    "name_l": "Quản trị",
+    "description_e": "",
+    "description_l": "Tét",
+    "allow": "view|add|update|delete|print|report|export|import|backup|restore|archive"
+  },
+  {
+    "id": "2",
+    "name_e": "Members",
+    "name_l": "Thành viên",
+    "description_e": "",
+    "description_l": "",
+    "allow": "view|add|update|print|report|export|import"
+  },
+  {
+    "id": "3",
+    "name_e": "Managers",
+    "name_l": "Trưởng phòng",
+    "description_e": "",
+    "description_l": "",
+    "allow": "view|add|update|delete|print|report|export|import"
+  },
+  {
+    "id": "4",
+    "name_e": "Director",
+    "name_l": "Giám đốc",
+    "description_e": "",
+    "description_l": "",
+    "allow": "view|add|update|delete|print|report|export|import|archive"
+  },
+  {
+    "id": "5",
+    "name_e": "Supervisor",
+    "name_l": "Giám sát",
+    "description_e": "",
+    "description_l": "",
+    "allow": "view|add|update|delete|print|report|export|import|backup|restore|archive"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id":"crm",
+    "name_e": "CRM",
+    "name_l":"Quan hệ KH"
+  },
+  {
+    "id":"workflow",
+    "name_e": "Workflow",
+    "name_l":"Workflow"
+  },
+  {
+    "id":"hrm",
+    "name_e": "HRM",
+    "name_l":"Quản trị nhân sự"
+  }
+]

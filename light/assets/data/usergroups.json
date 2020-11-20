@@ -1,0 +1,30 @@
+[
+  {
+    "id":"01",
+    "group_name_e":"root",
+    "group_name_l":"Quản trị viên",
+    "function_id":"crm|hrm|workflow",
+    "role_id":null
+  },
+  {
+    "id":"02",
+    "group_name_e":"BOD",
+    "group_name_l":"Nhóm ban quản trị",
+    "function_id":"crm|hrm|workflow",
+    "role_id":"1"
+  },
+  {
+    "id":"02",
+    "group_name_e":"Group Member",
+    "group_name_l":"Nhóm ban nhân viên",
+    "function_id":"crm|hrm|workflow",
+    "role_id":"2"
+  },
+  {
+    "id":"03",
+    "group_name_e":"Group Marketing",
+    "group_name_l":"Phòng tiếp thị",
+    "function_id":"crm",
+    "role_id":"2"
+  }
+]
