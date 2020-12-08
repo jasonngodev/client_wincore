@@ -556,3 +556,8 @@ input.form-control {
 .no-data {
   color: #000;
 }
+
+a.jdisabled {
+  pointer-events: none;
+  cursor: default;
+}
